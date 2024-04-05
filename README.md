@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **LLMs, Generative AI**
 
-- 👯 I’m looking to collaborate on [GPT-Jobhunter](https://github.com/espin086/GPT-Jobhunter)
+- 👯 I’m looking to collaborate on [StockHunter](https://github.com/espin086/NewsWaveMetrics)
 
 - 🤝 I’m looking for help with [GPT-Jobhunter](https://github.com/espin086/GPT-Jobhunter)
 
