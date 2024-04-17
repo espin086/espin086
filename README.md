@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm JJ</h1>
 <h3 align="center">An Senior AI/ML Scientist and Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=espin086&label=Profile%20views&color=0e75b6&style=flat" alt="espin086" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=espin086" alt="espin086" /></a> </p>
 
 <h3 align="center">Here are my some of my projects!</h3>
 
@@ -11,6 +8,12 @@
 - [EmoTrack](https://github.com/espin086/EmoTrack): A real-time emotion detection and tracking application using webcam input. Analyze and visualize your emotional trends over time with interactive charts. 
 - [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
 - [NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): is a powerful tool for analyzing news sentiment, allowing users to correlate these stories with stock market price data. 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=espin086&label=Profile%20views&color=0e75b6&style=flat" alt="espin086" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=espin086" alt="espin086" /></a> </p>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
