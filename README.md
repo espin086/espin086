@@ -17,19 +17,19 @@ NewsWageMetrics is a powerful tool for analyzing news sentiment, allowing users 
 ![alt text](https://github.com/espin086/NewsWaveMetrics/blob/main/images/image_ui_visualize_stock_data.png)
 
 
-### [AutoLearn](https://github.com/espin086/AutoLearn): Automation, Machine Learning, Exploratory Analysis, Model Training/Tuning/Inference
+### [AutoLearn](https://github.com/espin086/AutoLearn): Automation, Machine Learning, Data Visualization, Model Training/Tuning/Inference
 ---
 AutoLearn is a powerful tool for data scientists that automates the process of exploratory data analysis (EDA) and machine learning model training.
 
 ![alt text](https://github.com/espin086/AutoLearn/blob/main/images/demo_clustering_model_predictions.png)
 
-### [EmoTrack](https://github.com/espin086/EmoTrack)
+### [EmoTrack](https://github.com/espin086/EmoTrack): AWS, Computer Vision, Real-Time Processing, SQL 
 ---
 A real-time emotion detection and tracking application using webcam input. Analyze and visualize your emotional trends over time with interactive charts.
 
 ![alt text](https://github.com/espin086/EmoTrack/blob/main/images/ui_new_metrics.png)
 
-### [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter)
+### [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
 ---
 Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
 
