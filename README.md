@@ -25,7 +25,7 @@ AutoLearn is a powerful tool for data scientists that automates the process of e
 ---
 A real-time emotion detection and tracking application using webcam input. Analyze and visualize your emotional trends over time with interactive charts.
 
-![alt text](https://github.com/espin086/EmoTrack/blob/main/images/EmoTrackArchitecture.png)
+![alt text](https://github.com/espin086/EmoTrack/blob/main/images/ui_new_metrics.png)
 
 ### [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter)
 ---
