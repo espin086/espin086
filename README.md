@@ -5,6 +5,7 @@
 
 
 <h3 align="center">Here are my some of my projects!</h3>
+---
 
 
 ### [NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics):
