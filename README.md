@@ -17,7 +17,7 @@ NewsWageMetrics is a powerful tool for analyzing news sentiment, allowing users 
 ![alt text](https://github.com/espin086/NewsWaveMetrics/blob/main/images/image_ui_visualize_stock_data.png)
 
 
-### [AutoLearn](https://github.com/espin086/AutoLearn)
+### [AutoLearn](https://github.com/espin086/AutoLearn): Automation, Machine Learning, Exploratory Analysis, Model Training/Tuning/Inference
 ---
 AutoLearn is a powerful tool for data scientists that automates the process of exploratory data analysis (EDA) and machine learning model training.
 
