@@ -15,6 +15,9 @@
 ![alt text](https://github.com/espin086/EmoTrack/blob/main/images/EmoTrackArchitecture.png)
 
 - [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
+
+![alt text](https://github.com/espin086/GPT-Jobhunter/blob/main/images/image_ui_resume_load.jpg)
+
 - [NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): is a powerful tool for analyzing news sentiment, allowing users to correlate these stories with stock market price data. 
 
 <h3 align="left">Languages and Tools:</h3>
