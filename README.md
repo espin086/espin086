@@ -9,6 +9,7 @@
 
 
 ### [NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics)
+---
 NewsWageMetrics is a powerful tool for analyzing news sentiment, allowing users to correlate these stories with stock market price data.
 
 ![alt text](https://github.com/espin086/NewsWaveMetrics/blob/main/images/image_ui_visualize_stock_data.png)
