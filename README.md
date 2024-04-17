@@ -9,6 +9,8 @@
 
 - [AutoLearn](https://github.com/espin086/AutoLearn): AutoLearn is a powerful tool for data scientists that automates the process of exploratory data analysis (EDA) and machine learning model training.
 - [EmoTrack](https://github.com/espin086/EmoTrack): A real-time emotion detection and tracking application using webcam input. Analyze and visualize your emotional trends over time with interactive charts. 
+- [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
