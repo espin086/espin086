@@ -8,6 +8,7 @@
 <h3 align="center">Here are my projects!</h3>
 
 - [AutoLearn](https://github.com/espin086/AutoLearn): AutoLearn is a powerful tool for data scientists that automates the process of exploratory data analysis (EDA) and machine learning model training.
+- [EmoTrack](https://github.com/espin086/EmoTrack): A real-time emotion detection and tracking application using webcam input. Analyze and visualize your emotional trends over time with interactive charts. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
