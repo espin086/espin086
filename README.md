@@ -7,6 +7,9 @@
 <h3 align="center">Here are my some of my projects!</h3>
 
 - [AutoLearn](https://github.com/espin086/AutoLearn): AutoLearn is a powerful tool for data scientists that automates the process of exploratory data analysis (EDA) and machine learning model training.
+
+[images/demo_upload_data.png](https://github.com/espin086/AutoLearn/blob/main/images/demo_upload_data.png)
+
 - [EmoTrack](https://github.com/espin086/EmoTrack): A real-time emotion detection and tracking application using webcam input. Analyze and visualize your emotional trends over time with interactive charts. 
 - [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
 - [NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): is a powerful tool for analyzing news sentiment, allowing users to correlate these stories with stock market price data. 
