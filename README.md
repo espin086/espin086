@@ -10,7 +10,7 @@ I am a scientist/engineer with a passion for machine learning and artificial int
 
 
 
-### [NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics)
+### [NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): APIs, SQL, Python, Text Analysis, Time Series Analysis, etc.
 ---
 NewsWageMetrics is a powerful tool for analyzing news sentiment, allowing users to correlate these stories with stock market price data.
 
