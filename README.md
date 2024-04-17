@@ -7,12 +7,7 @@
 
 <h3 align="center">Here are my projects!</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/espin086](https://github.com/espin086)
-
-
-- 💬 Ask me about **Python, ML, AI, Cloud (AWS, Google)**
-
-- ⚡ Fun fact **I have a graduate degree in Econometrics.**
+- [AutoLearn](https://github.com/espin086/AutoLearn): AutoLearn is a powerful tool for data scientists that automates the process of exploratory data analysis (EDA) and machine learning model training.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
