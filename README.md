@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">Here are my some of my projects!</h3>
+<h2 align="center">My Portfolio of Projects</h2>
 
 
 
