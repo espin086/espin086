@@ -16,6 +16,13 @@ NewsWageMetrics is a powerful tool for analyzing news sentiment, allowing users 
 
 ![alt text](https://github.com/espin086/NewsWaveMetrics/blob/main/images/image_ui_visualize_stock_data.png)
 
+**Key Components**:
+
+- [Anomaly Detection Algorithm](https://github.com/espin086/NewsWaveMetrics/blob/main/anomaly_detector.py)
+
+
+
+
 
 ### [AutoLearn](https://github.com/espin086/AutoLearn): Automation, Machine Learning, Data Visualization, Model Training/Tuning/Inference
 ---
