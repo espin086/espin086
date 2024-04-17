@@ -1,25 +1,16 @@
 <h1 align="center">Hi 👋, I'm JJ</h1>
-<h3 align="center">An AI/ML Scientist and Engineer</h3>
+<h3 align="center">An Senior AI/ML Scientist and Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=espin086&label=Profile%20views&color=0e75b6&style=flat" alt="espin086" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=espin086" alt="espin086" /></a> </p>
 
-- 🔭 I’m currently working on [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter)
-
-- 🌱 I’m currently learning **LLMs, Generative AI**
-
-- 👯 I’m looking to collaborate on [StockHunter](https://github.com/espin086/NewsWaveMetrics)
-
-- 🤝 I’m looking for help with [GPT-Jobhunter](https://github.com/espin086/GPT-Jobhunter)
+<h3 align="center">Here are my projects!</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/espin086](https://github.com/espin086)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/newsletters/the-ai-digest-7001350168524587008/](https://www.linkedin.com/newsletters/the-ai-digest-7001350168524587008/)
 
 - 💬 Ask me about **Python, ML, AI, Cloud (AWS, Google)**
-
-- 📫 How to reach me **jj.espinoza@solutionslab.ai**
 
 - ⚡ Fun fact **I have a graduate degree in Econometrics.**
 
