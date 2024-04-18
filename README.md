@@ -12,6 +12,7 @@ My Github repositories showcase a variety of projects spanning generative AI, ma
 
 These projects make use of Streamlit for interactive visualizations, cloud APIs for data processing, SQLite3 databases for storage, and adhere to good programming practices.
 
+:arrow_down:
 
 ### [:briefcase: GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
 ---
