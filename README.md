@@ -17,7 +17,14 @@ Analyzes job postings and provides personalized recommendations to job seekers f
 
 **Key Components**:
 
-- [Text Similarity Algorithm](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/text_similarity.py)
+- [Generative AI API calls for embeddings](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/textAnalysis.py)
+- [Text similarityh algorithm](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/text_similarity.py)
+- [Jobs API Call for job postings](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/search_jobs.py)
+- [Class to perform data transformations](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/dataTransformer.py)
+- [SQLite functions for database operations](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/SQLiteHandler.py)
+- [Unit tests to ensure code quality](https://github.com/espin086/GPT-Jobhunter/tree/main/tests)
+- [Make file to install, test, and run application](https://github.com/espin086/GPT-Jobhunter/blob/main/Makefile)
+- [Code for Streamlit user interface](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/main.py)
 
 
 ### [NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): APIs, SQL, Python, Text Analysis, Time Series Analysis, etc.
