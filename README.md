@@ -44,6 +44,12 @@ A real-time emotion detection and tracking application using webcam input. Analy
 
 ![alt text](https://github.com/espin086/EmoTrack/blob/main/images/ui_new_metrics.png)
 
+**Key Components**:
+
+- [Call to AWS Facial Analysis API](https://github.com/espin086/EmoTrack/blob/main/logic/facial_analysis.py)
+- [Webcam Access from Streamlit UI](https://github.com/espin086/EmoTrack/blob/main/EmoTrack.py)
+
+
 ### [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
 ---
 Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
