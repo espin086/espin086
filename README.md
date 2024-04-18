@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=espin086&label=Profile%20views&color=0e75b6&style=flat" alt="espin086" /> </p>
 
 
-
+:bulb:
 <h2 align="center">My Portfolio of Projects</h2>
 
 I am a scientist/engineer with a passion for data science, machine learning and artificial intelligence projects. 
