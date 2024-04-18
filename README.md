@@ -33,6 +33,11 @@ AutoLearn is a powerful tool for data scientists that automates the process of e
 
 ![alt text](https://github.com/espin086/AutoLearn/blob/main/images/demo_clustering_model_predictions.png)
 
+**Key Components**:
+
+- [Streamlit Application](https://github.com/espin086/AutoLearn/blob/main/app.py)
+
+
 ### [EmoTrack](https://github.com/espin086/EmoTrack): AWS, Computer Vision, Real-Time Processing, SQL 
 ---
 A real-time emotion detection and tracking application using webcam input. Analyze and visualize your emotional trends over time with interactive charts.
