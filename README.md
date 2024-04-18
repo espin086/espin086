@@ -27,7 +27,7 @@ Analyzes job postings and provides personalized recommendations to job seekers f
 - [Code for Streamlit user interface](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/main.py)
 
 
-### [NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): APIs, SQL, Python, Text Analysis, Time Series Analysis, etc.
+### [:moneybag: NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): APIs, SQL, Python, Text Analysis, Time Series Analysis, etc.
 ---
 NewsWageMetrics is a powerful tool for analyzing news sentiment, allowing users to correlate these stories with stock market price data.
 
