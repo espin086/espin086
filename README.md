@@ -9,7 +9,7 @@
 I am a scientist/engineer with a passion for data science, machine learning and artificial intelligence projects. My Github repositories showcase a variety of projects spanning generative AI, machine learning, text analysis, computer vision, AutoML tools, and more. These projects make use of Streamlit for interactive visualizations, cloud APIs for data processing, SQLite3 databases for storage, and adhere to good programming practices.
 
 
-### [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
+### [:briefcase: GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
 ---
 Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
 
