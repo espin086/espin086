@@ -9,6 +9,16 @@
 I am a scientist/engineer with a passion for machine learning and artificial intelligence projects. My Github repositories showcase a variety of projects spanning generative AI, machine learning, text analysis, computer vision, AutoML tools, and more. These projects make use of Streamlit for interactive visualizations, cloud APIs for data processing, SQLite3 databases for storage, and adhere to good programming practices.
 
 
+### [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
+---
+Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
+
+![alt text](https://github.com/espin086/GPT-Jobhunter/blob/main/images/image_ui_resume_load.jpg)
+
+**Key Components**:
+
+- [Text Similarity Algorithm](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/text_similarity.py)
+
 
 ### [NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): APIs, SQL, Python, Text Analysis, Time Series Analysis, etc.
 ---
@@ -48,13 +58,6 @@ A real-time emotion detection and tracking application using webcam input. Analy
 
 - [Call to AWS Facial Analysis API](https://github.com/espin086/EmoTrack/blob/main/logic/facial_analysis.py)
 - [Webcam Access from Streamlit UI](https://github.com/espin086/EmoTrack/blob/main/EmoTrack.py)
-
-
-### [GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
----
-Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
-
-![alt text](https://github.com/espin086/GPT-Jobhunter/blob/main/images/image_ui_resume_load.jpg)
 
 
 
