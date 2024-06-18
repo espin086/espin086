@@ -4,7 +4,7 @@
 
 
 :bulb:
-<h2 align="center">My Portfolio of Projects</h2>
+<h1 align="center">My Portfolio of Projects</h2>
 :arrow_down:  :arrow_down:   :arrow_down:
 
 # [:briefcase: GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
