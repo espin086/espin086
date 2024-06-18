@@ -7,7 +7,7 @@
 <h1 align="center">My Portfolio of Projects</h2>
 :arrow_down:  :arrow_down:   :arrow_down:
 
-# [:briefcase: GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
+## [:briefcase: GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
 ---
 Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
 
@@ -25,7 +25,7 @@ Analyzes job postings and provides personalized recommendations to job seekers f
 - [Code for Streamlit user interface](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/main.py)
 
 
-# [:moneybag: NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): APIs, SQL, Python, Text Analysis, Time Series Analysis, etc.
+## [:moneybag: NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): APIs, SQL, Python, Text Analysis, Time Series Analysis, etc.
 ---
 NewsWageMetrics is a powerful tool for analyzing news sentiment, allowing users to correlate these stories with stock market price data.
 
@@ -42,7 +42,7 @@ NewsWageMetrics is a powerful tool for analyzing news sentiment, allowing users 
 
 
 
-# [:brain: AutoLearn](https://github.com/espin086/AutoLearn): Automation, Machine Learning, Data Visualization, Model Training/Tuning/Inference
+## [:brain: AutoLearn](https://github.com/espin086/AutoLearn): Automation, Machine Learning, Data Visualization, Model Training/Tuning/Inference
 ---
 AutoLearn is a powerful tool for data scientists that automates the process of exploratory data analysis (EDA) and machine learning model training.
 
@@ -53,7 +53,7 @@ AutoLearn is a powerful tool for data scientists that automates the process of e
 - [Streamlit Application](https://github.com/espin086/AutoLearn/blob/main/app.py)
 
 
-# [:boom: EmoTrack](https://github.com/espin086/EmoTrack): AWS, Computer Vision, Real-Time Processing, SQL 
+## [:boom: EmoTrack](https://github.com/espin086/EmoTrack): AWS, Computer Vision, Real-Time Processing, SQL 
 ---
 A real-time emotion detection and tracking application using webcam input. Analyze and visualize your emotional trends over time with interactive charts.
 
