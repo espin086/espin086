@@ -13,7 +13,7 @@
 
 ### 💰 Jobhunter: https://github.com/espin086/GPT-Jobhunter
 
-### 📰 NewsWaveMetrics
+### 📰 NewsWaveMetrics: https://github.com/espin086/NewsWaveMetrics
 
 ### 🧠 AutoLearn
 
