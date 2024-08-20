@@ -12,38 +12,17 @@
 
 
 
-**Free Web App Available!** You can use AppGenie directly from your browser at this URL: https://appgenie.streamlit.app/
-
-
 ## AppGenie
 ---
 Uses LLMs/AI to build full blown apps for developers. 
 
-
-
-**Key Components**:
-
-- [Awesome Component](https://google.com)
-
-
-
+You can use AppGenie directly from your browser at this URL: https://appgenie.streamlit.app/
 
 ## [:briefcase: GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
 ---
 Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
 
 ![alt text](https://github.com/espin086/GPT-Jobhunter/blob/main/images/image_ui_resume_load.jpg)
-
-**Key Components**:
-
-- [Generative AI API calls for embeddings](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/textAnalysis.py)
-- [Text similarityh algorithm](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/text_similarity.py)
-- [Jobs API Call for job postings](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/search_jobs.py)
-- [Class to perform data transformations](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/dataTransformer.py)
-- [SQLite functions for database operations](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/SQLiteHandler.py)
-- [Unit tests to ensure code quality](https://github.com/espin086/GPT-Jobhunter/tree/main/tests)
-- [Make file to install, test, and run application](https://github.com/espin086/GPT-Jobhunter/blob/main/Makefile)
-- [Code for Streamlit user interface](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/main.py)
 
 
 ## [:moneybag: NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): APIs, SQL, Python, Text Analysis, Time Series Analysis, etc.
@@ -52,16 +31,6 @@ NewsWageMetrics is a powerful tool for analyzing news sentiment, allowing users 
 
 ![alt text](https://github.com/espin086/NewsWaveMetrics/blob/main/images/image_ui_visualize_stock_data.png)
 
-**Key Components**:
-
-- [Anomaly Detection Algorithm using Time Series Algorithms](https://github.com/espin086/NewsWaveMetrics/blob/main/anomaly_detector.py)
-- [Data Transformation using Classes](https://github.com/espin086/NewsWaveMetrics/blob/main/data_transform.py)
-- [Extract Economic Data via API](https://github.com/espin086/NewsWaveMetrics/blob/main/extract_economic_data.py)
-- [Local File Handler Class](https://github.com/espin086/NewsWaveMetrics/blob/main/file_handler.py)
-
-
-
-
 
 ## [:brain: AutoLearn](https://github.com/espin086/AutoLearn): Automation, Machine Learning, Data Visualization, Model Training/Tuning/Inference
 ---
@@ -69,21 +38,12 @@ AutoLearn is a powerful tool for data scientists that automates the process of e
 
 ![alt text](https://github.com/espin086/AutoLearn/blob/main/images/demo_clustering_model_predictions.png)
 
-**Key Components**:
-
-- [Streamlit Application](https://github.com/espin086/AutoLearn/blob/main/app.py)
-
 
 ## [:boom: EmoTrack](https://github.com/espin086/EmoTrack): AWS, Computer Vision, Real-Time Processing, SQL 
 ---
 A real-time emotion detection and tracking application using webcam input. Analyze and visualize your emotional trends over time with interactive charts.
 
 ![alt text](https://github.com/espin086/EmoTrack/blob/main/images/ui_new_metrics.png)
-
-**Key Components**:
-
-- [Call to AWS Facial Analysis API](https://github.com/espin086/EmoTrack/blob/main/logic/facial_analysis.py)
-- [Webcam Access from Streamlit UI](https://github.com/espin086/EmoTrack/blob/main/EmoTrack.py)
 
 
 
