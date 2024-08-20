@@ -9,7 +9,7 @@
 
 ## Portfolio of Projects
 
-### 📝 AppGenie
+### 📝 AppGenie: https://appgenie.streamlit.app/
 
 ### 💰 Jobhunter
 
