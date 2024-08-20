@@ -10,6 +10,24 @@
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
 </a>
 
+
+
+**Free Web App Available!** You can use AppGenie directly from your browser at this URL: https://appgenie.streamlit.app/
+
+
+## AppGenie
+---
+Uses LLMs/AI to build full blown apps for developers. 
+
+
+
+**Key Components**:
+
+- [Awesome Component](https://google.com)
+
+
+
+
 ## [:briefcase: GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
 ---
 Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
