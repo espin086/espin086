@@ -9,20 +9,15 @@
 
 
 
+## 📝 AppGenie
 
-## AppGenie
-Uses LLMs/AI to build apps. You can use AppGenie directly from your browser at this URL: https://appgenie.streamlit.app/
+## Jobhunter
 
-## [:briefcase: GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
+## NewsWaveMetrics
 
+## AutoLearn
 
-## [:moneybag: NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): APIs, SQL, Python, Text Analysis, Time Series Analysis, etc.
-
-
-## [:brain: AutoLearn](https://github.com/espin086/AutoLearn): Automation, Machine Learning, Data Visualization, Model Training/Tuning/Inference
-
-
-## [:boom: EmoTrack](https://github.com/espin086/EmoTrack): AWS, Computer Vision, Real-Time Processing, SQL 
+## EmoTrack
 
 <a href="https://buymeacoffee.com/jjespinozag" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
