@@ -6,9 +6,7 @@
 :bulb:
 <h1 align="center">My Portfolio of Projects</h2>
 
-<a href="https://buymeacoffee.com/jjespinozag" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
-</a>
+
 
 
 
@@ -26,7 +24,9 @@ Uses LLMs/AI to build apps. You can use AppGenie directly from your browser at t
 
 ## [:boom: EmoTrack](https://github.com/espin086/EmoTrack): AWS, Computer Vision, Real-Time Processing, SQL 
 
-
+<a href="https://buymeacoffee.com/jjespinozag" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
