@@ -3,8 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=espin086&label=Profile%20views&color=0e75b6&style=flat" alt="espin086" /> </p>
 
 
-:bulb:
-<h1 align="center">My Portfolio of Projects</h2>
+:bulb:<h1 align="center">My Portfolio of Projects</h2>
 
 
 
