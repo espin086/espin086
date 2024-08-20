@@ -11,7 +11,7 @@
 
 ### 📝 AppGenie: https://appgenie.streamlit.app/
 
-### 💰 Jobhunter
+### 💰 Jobhunter: https://github.com/espin086/GPT-Jobhunter
 
 ### 📰 NewsWaveMetrics
 
