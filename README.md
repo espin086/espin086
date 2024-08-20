@@ -17,7 +17,7 @@
 
 ### 🧠 AutoLearn: https://github.com/espin086/AutoLearn
 
-### 😂😭 EmoTrack
+### 😂😭 EmoTrack: https://github.com/espin086/EmoTrack
 
 
 
