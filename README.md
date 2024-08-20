@@ -15,7 +15,7 @@
 
 ### 📰 NewsWaveMetrics: https://github.com/espin086/NewsWaveMetrics
 
-### 🧠 AutoLearn
+### 🧠 AutoLearn: https://github.com/espin086/AutoLearn
 
 ### 😂😭 EmoTrack
 
