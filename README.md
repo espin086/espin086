@@ -6,13 +6,13 @@
 
 ### 📝 AppGenie
 
-### Jobhunter
+### 💰 Jobhunter
 
-### NewsWaveMetrics
+### 📰 NewsWaveMetrics
 
-### AutoLearn
+### 🧠 AutoLearn
 
-### EmoTrack
+### 😂😭 EmoTrack
 
 <a href="https://buymeacoffee.com/jjespinozag" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
