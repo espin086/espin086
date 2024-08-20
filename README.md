@@ -7,6 +7,8 @@
 <h1 align="center">My Portfolio of Projects</h2>
 :arrow_down:  :arrow_down:   :arrow_down:
 
+<a href="buymeacoffee.com/jjespinozag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 ## [:briefcase: GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
 ---
 Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
