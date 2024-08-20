@@ -2,17 +2,17 @@
 <h1 align="center">Entreprenuer, AI/ML Expert, and Technical Leader</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=espin086&label=Profile%20views&color=0e75b6&style=flat" alt="espin086" /> </p>
 
+## Portfolio of Projects
 
+### 📝 AppGenie
 
-## 📝 AppGenie
+### Jobhunter
 
-## Jobhunter
+### NewsWaveMetrics
 
-## NewsWaveMetrics
+### AutoLearn
 
-## AutoLearn
-
-## EmoTrack
+### EmoTrack
 
 <a href="https://buymeacoffee.com/jjespinozag" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
