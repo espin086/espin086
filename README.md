@@ -14,36 +14,28 @@
 
 ## AppGenie
 ---
-Uses LLMs/AI to build full blown apps for developers. 
-
-You can use AppGenie directly from your browser at this URL: https://appgenie.streamlit.app/
+Uses LLMs/AI to build apps. You can use AppGenie directly from your browser at this URL: https://appgenie.streamlit.app/
 
 ## [:briefcase: GPT-JobHunter](https://github.com/espin086/GPT-Jobhunter): Text Analysis, APIs, SQL, User Input, Machine Learning, Generative AI
 ---
 Analyzes job postings and provides personalized recommendations to job seekers for improving their resumes.
-
-![alt text](https://github.com/espin086/GPT-Jobhunter/blob/main/images/image_ui_resume_load.jpg)
 
 
 ## [:moneybag: NewsWaveMetrics](https://github.com/espin086/NewsWaveMetrics): APIs, SQL, Python, Text Analysis, Time Series Analysis, etc.
 ---
 NewsWageMetrics is a powerful tool for analyzing news sentiment, allowing users to correlate these stories with stock market price data.
 
-![alt text](https://github.com/espin086/NewsWaveMetrics/blob/main/images/image_ui_visualize_stock_data.png)
 
 
 ## [:brain: AutoLearn](https://github.com/espin086/AutoLearn): Automation, Machine Learning, Data Visualization, Model Training/Tuning/Inference
 ---
 AutoLearn is a powerful tool for data scientists that automates the process of exploratory data analysis (EDA) and machine learning model training.
 
-![alt text](https://github.com/espin086/AutoLearn/blob/main/images/demo_clustering_model_predictions.png)
 
 
 ## [:boom: EmoTrack](https://github.com/espin086/EmoTrack): AWS, Computer Vision, Real-Time Processing, SQL 
 ---
 A real-time emotion detection and tracking application using webcam input. Analyze and visualize your emotional trends over time with interactive charts.
-
-![alt text](https://github.com/espin086/EmoTrack/blob/main/images/ui_new_metrics.png)
 
 
 
