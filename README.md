@@ -14,7 +14,7 @@ Jobhunter is an **AI-powered job search platform** that automates resume matchin
 
 
 ### 😂😭 **EmoTrack**:  
-EmoTrack is a **real-time emotion tracking application** that uses **AWS Rekognition** for facial recognition [[link to facial analysis code](https://github.com/espin086/EmoTrack/blob/main/logic/facial_analysis.py) to detect emotions from a live webcam feed. Built with **Python** and **Streamlit** for the frontend, it stores data using **SQLite** for backend storage. The app tracks emotional variations over time and displays visualizations using **Matplotlib** and **Seaborn**. This project demonstrates expertise in **computer vision**, **cloud integration** with AWS, and **data analysis** through **emotion detection** and **real-time data tracking**.
+EmoTrack is a **real-time emotion tracking application** that uses **AWS Rekognition** for facial recognition [[link to facial analysis code](https://github.com/espin086/EmoTrack/blob/main/logic/facial_analysis.py)] to detect emotions from a live webcam feed. Built with **Python** and **Streamlit** for the frontend, it stores data using **SQLite** for backend storage. The app tracks emotional variations over time and displays visualizations using **Matplotlib** and **Seaborn**. This project demonstrates expertise in **computer vision**, **cloud integration** with AWS, and **data analysis** through **emotion detection** and **real-time data tracking**.
 
 
 
