@@ -31,7 +31,7 @@ This project showcases expertise in **audio processing**, **NLP**, and **web app
 
 ---
 
-### 🏠 **PropertyBot Data AI Pipeline** [[repo](https://github.com/propertybot/data-pipeline):  
+### 🏠 **PropertyBot Data AI Pipeline** [[repo](https://github.com/propertybot/data-pipeline)]:  
 PropertyBot is an **automated data pipeline** that integrates **real estate listings**, **data enrichment**, and **property detail analysis** using **AWS services**. The pipeline leverages **EventBridge**, **Lambda functions**, and **SQS queues** to trigger and process property data, employing **AWS Rekognition** for **image processing** and **custom NLP models** for property descriptions. Property data is stored and managed in **DynamoDB** and **RDS**, with additional remodel data added by a **Node.js server**. The pipeline includes automation for **removing sold listings** and supports **CI/CD deployment** via **GitHub Actions** and **Serverless frameworks**, ensuring continuous integration and deployment.
 
 This project highlights expertise in **cloud architecture**, **automated pipelines**, and **data enrichment** through cloud services like **AWS Lambda**, **SQS**, and **DynamoDB**, with efficient property data processing across multiple stages.
