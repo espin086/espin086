@@ -12,7 +12,9 @@
 ### 💰 **Jobhunter** [link](https://github.com/espin086/GPT-Jobhunter):  
 Jobhunter is an **AI-powered job search platform** that automates resume matching and job discovery using **GPT-based embeddings** [[code for embeddings](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/textAnalysis.py)]. The app, built with **Python** and **Streamlit**[[code for ui](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/main.py), allows users to upload resumes, query an **SQLite database** [[code for database](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/SQLiteHandler.py)of jobs, and filter results based on various criteria. 
 
-Leveraging **multi-threading** and **API integrations**[[code for api](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/extract.py)], it streamlines job search processes by pulling jobs from multiple sources and comparing them to a user's resume with **machine learning** techniques. The platform uses **GPT-3** to generate **text embeddings** for personalized job recommendations.
+
+### 😂😭 **EmoTrack**:  
+EmoTrack is a **real-time emotion tracking application** that uses **AWS Rekognition** for facial recognition to detect emotions from a live webcam feed. Built with **Python** and **Streamlit** for the frontend, it stores data using **SQLite** for backend storage. The app tracks emotional variations over time and displays visualizations using **Matplotlib** and **Seaborn**. This project demonstrates expertise in **computer vision**, **cloud integration** with AWS, and **data analysis** through **emotion detection** and **real-time data tracking**.
 
 
 
