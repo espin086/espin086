@@ -59,6 +59,19 @@ Other Tech used:
 
 **NewsWaveMetrics is a news sentiment analysis platform** designed to track national and local stories, enabling users to correlate news sentiment with **stock market data** and other **economic indicators**. The tool fetches and analyzes **daily stock data** and **news sentiment** using automated procedures and **visualization tools**. It provides insights into **stock performance**, **sentiment trends**, and various **economic metrics** such as GDP, unemployment rate, and treasury yields. Built with **Python** and incorporating **data science techniques**, NewsWaveMetrics empowers users to make **data-driven decisions** by understanding the impact of news and market conditions. The platform leverages **command-line tools** for fetching data from **Yahoo Finance** and presents results through **interactive visualizations**.
 
+**AI/ML Tech used**:
+- **Natural Language Processing (NLP)** for sentiment analysis of news data
+- **Sentiment Analysis Models** for categorizing news stories
+- **Time Series Analysis** for stock market trends and economic metrics
+
+**Other Tech used**:
+- **Python** for core scripting and automation
+- **Pandas** for data manipulation and processing
+- **Matplotlib** and **Seaborn** for data visualization
+- **API Integration** for fetching stock, news, and economic data (Yahoo Finance, RapidAPI)
+- **SQLite** for database management
+- **Command-line tools** for data retrieval and analysis
+
 ---
 
 ### 🧠 **AutoLearn**:  
