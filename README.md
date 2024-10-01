@@ -4,7 +4,7 @@
         <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
     </a>
 </p>
-<h1 align="center">Data Scientist, AI/ML Expert, and Entreprenuer</h1>
+<h1 align="center">AI/ML Cloud Expert & Data Scientist </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=espin086&label=Profile%20views&color=0e75b6&style=flat" alt="espin086" /> </p>
 
 ## Portfolio of Projects
