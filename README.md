@@ -9,7 +9,7 @@
 
 ## Portfolio of Artificial Intelligence and Machine Learning Projects
 
-### 🎙️ **recapio.io**:  
+### 🎙️ **recapio.io** [repo](https://github.com/AI-Solutions-Lab-LLC/recapio.io):  
 recapio.io is a tool designed to **record audio from meetings**, **transcribe** the content, and generate **summaries** using **OpenAI's API**. The platform integrates **user authentication** via **Auth0** and supports payment processing with **Stripe**. The app allows users to record meetings, transcribe the audio to text, and produce a summary all within a **Streamlit-based web interface**. Users can start recordings, transcribe the meeting audio, and view the summaries directly from the app. Built with **Python 3.11.5**, the tool automates the process from **audio capture** to **summary generation**, offering seamless **meeting documentation**.
 
 This project showcases expertise in **audio processing**, **NLP**, and **web app development**, with cloud-based authentication and payment integration through **Auth0** and **Stripe**.
