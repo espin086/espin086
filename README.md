@@ -4,7 +4,7 @@
 ## Check out my AI projects 
 ---
 
-### 💼 **IcebreakerBot** [[repo](#)]: LinkedIn Icebreaker Generator with LangChain Agents
+### 💼 **IcebreakerBot** [[repo]([#](https://github.com/espin086/IcebreakerBot))]: LinkedIn Icebreaker Generator with LangChain Agents
 A **LinkedIn networking tool** that automatically generates personalized icebreakers using **LangChain agents** and **LLMs** like **GPT-4** and **Llama**. The system retrieves LinkedIn profiles and generates creative conversation starters. Built with **Streamlit** for the frontend.
 
 **AI/ML Tech used**:
