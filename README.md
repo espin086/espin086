@@ -10,7 +10,10 @@
 ## Portfolio of Projects
 
 ### 💰 **Jobhunter** [link](https://github.com/espin086/GPT-Jobhunter):  
-Jobhunter is an **AI-powered job search platform** that automates resume matching and job discovery using **GPT-based embeddings** [[code for embeddings](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/textAnalysis.py)]. The app, built with **Python** and **Streamlit**[[code for ui](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/main.py), allows users to upload resumes, query an **SQLite database** [[code for database](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/SQLiteHandler.py)of jobs, and filter results based on various criteria. 
+Jobhunter is an **AI-powered job search platform** that automates resume matching and job discovery using **GPT-based embeddings** [[embeddings](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/textAnalysis.py)]. The app, built with **Python** and **Streamlit**[[ui](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/main.py), allows users to upload resumes, query an **SQLite database** [[database](https://github.com/espin086/GPT-Jobhunter/blob/main/jobhunter/SQLiteHandler.py)of jobs, and filter results based on various criteria. 
+
+- Uses CI/CD [link](https://github.com/espin086/GPT-Jobhunter/tree/main/.github)
+- Well documented using Sphinx [link](https://github.com/espin086/GPT-Jobhunter/tree/main/docs)
 
 
 ### 😂😭 **EmoTrack**:  
