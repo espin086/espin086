@@ -19,7 +19,7 @@ A tool to **record audio**, **transcribe meetings**, and generate **summaries** 
 
 ---
 
-### 🏠 **PropertyBot Data AI Pipeline** [[repo](https://github.com/propertybot/data-pipeline)]:  Computer Vision / NLP for home listing analyis.
+### 🏠 **PropertyBot Data AI Pipeline** [[repo](https://github.com/propertybot/data-pipeline)]:  Computer Vision / NLP for home listing analysis.
 An **automated data pipeline** that processes **real estate listings**, enriching them with **AWS Rekognition** for **image classification** and **custom NLP models** for property descriptions. Includes a **CI/CD pipeline** for continuous deployment.
 
 **AI/ML Tech used**:
