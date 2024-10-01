@@ -36,6 +36,21 @@ PropertyBot is an **automated data pipeline** that integrates real estate listin
 
 This project highlights expertise in **cloud architecture**, **automated pipelines**, and **data enrichment** through cloud services like **AWS Lambda**, **SQS**, and **DynamoDB**, with efficient property data processing across multiple stages.
 
+**AI/ML Tech used**:
+- **AWS Rekognition** for custom **image classification** and **segmentation models**
+- **Custom NLP models** for property description analysis and data extraction
+- **Custom data labeling** for training the **image recognition models**
+
+**Other Tech used**:
+- **AWS Lambda** for serverless compute functions
+- **EventBridge** for scheduling and triggering pipeline events
+- **SQS (Simple Queue Service)** for message queuing and task management
+- **DynamoDB** for property data storage
+- **RDS** for relational database management
+- **CI/CD pipelines** via **GitHub Actions** and **Serverless** for continuous deployment
+
+
+
 ---
 
 ### 💰 **Jobhunter** [link](https://github.com/espin086/GPT-Jobhunter):  
