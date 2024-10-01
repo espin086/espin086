@@ -1,6 +1,6 @@
 # Hi! I'm JJ.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/jjespinoza/) to stay updated on my AI and machine learning news and projects.
+[🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/jjespinoza/) to stay updated on my AI and machine learning news and projects.
 
 
 ## Check out my AI projects 
