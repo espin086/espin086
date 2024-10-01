@@ -9,7 +9,13 @@
 
 ## Portfolio of Artificial Intelligence and Machine Learning Projects
 
-### 🏠 **PropertyBot Data Pipeline**:  
+### 🎙️ **recapio.io**:  
+recapio.io is a tool designed to **record audio from meetings**, **transcribe** the content, and generate **summaries** using **OpenAI's API**. The platform integrates **user authentication** via **Auth0** and supports payment processing with **Stripe**. The app allows users to record meetings, transcribe the audio to text, and produce a summary all within a **Streamlit-based web interface**. Users can start recordings, transcribe the meeting audio, and view the summaries directly from the app. Built with **Python 3.11.5**, the tool automates the process from **audio capture** to **summary generation**, offering seamless **meeting documentation**.
+
+This project showcases expertise in **audio processing**, **NLP**, and **web app development**, with cloud-based authentication and payment integration through **Auth0** and **Stripe**.
+
+
+### 🏠 **PropertyBot Data AI Pipeline**:  
 PropertyBot is an **automated data pipeline** that integrates real estate listings, **data enrichment**, and **property detail analysis** using **AWS services**. The pipeline leverages **EventBridge**, **Lambda functions**, and **SQS queues** to trigger and process property data, employing **Rekognition** for **image processing** and **custom NLP models** for property descriptions. Property data is stored and managed in **DynamoDB** and **RDS**, with additional remodel data added by a **Node.js server**. The pipeline includes automation for **removing sold listings** and supports **CI/CD deployment** via **GitHub Actions** and **Serverless** frameworks, ensuring continuous integration and deployment.
 
 This project highlights expertise in **cloud architecture**, **automated pipelines**, and **data enrichment** through cloud services like **AWS Lambda**, **SQS**, and **DynamoDB**, with efficient property data processing across multiple stages.
