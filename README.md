@@ -1,7 +1,8 @@
 # H! I'm JJ.
 
 
-## Portfolio of AI and ML Projects
+## Check out my projects 
+---
 
 ### 🎙️ **recapio.io** [[repo](https://github.com/AI-Solutions-Lab-LLC/recapio.io)]:  
 A tool to **record audio**, **transcribe meetings**, and generate **summaries** using **OpenAI Whisper models** and **LLMs**. It integrates **Auth0** for user authentication and **Stripe** for payment processing, all built with **Streamlit**.
