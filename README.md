@@ -35,6 +35,10 @@ AI/ML Tech used:
 
 - AWS AI Services (Computer Vision)
 
+Other Tech used:
+- SQL database
+- UI (Frontend) Streamlit
+
 
 <h3 align="left">Languages and Tools:</h3>
 
