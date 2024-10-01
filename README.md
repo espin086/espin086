@@ -32,7 +32,7 @@ An **automated data pipeline** that processes **real estate listings**, enrichin
 
 ---
 
-### 💰 **Jobhunter** [[repo](https://github.com/espin086/GPT-Jobhunter)]:  
+### 💰 **Jobhunter** [[repo](https://github.com/espin086/GPT-Jobhunter)]:  LLM Embeddings based job search app.
 An **AI-powered job search platform** that uses **GPT-based embeddings** to match resumes with job listings. Built with **Python** and **Streamlit**.
 
 **AI/ML Tech used**:
@@ -46,7 +46,7 @@ An **AI-powered job search platform** that uses **GPT-based embeddings** to matc
 
 ---
 
-### 📰 **NewsWaveMetrics** [[repo](https://github.com/espin086/NewsWaveMetrics)]:  
+### 📰 **NewsWaveMetrics** [[repo](https://github.com/espin086/NewsWaveMetrics)]:  News Sentiment Analyzer
 A platform that analyzes **news sentiment** and correlates it with **stock market data** and **economic indicators**. Uses **NLP** for sentiment analysis and **time series analysis** for economic trends.
 
 **AI/ML Tech used**:
