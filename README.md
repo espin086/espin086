@@ -4,7 +4,7 @@
 ## Check out my projects 
 ---
 
-### 🎙️ **recapio.io** [[repo](https://github.com/AI-Solutions-Lab-LLC/recapio.io)]:  LLM based audio transcription and summarization application for meetings. 
+### 🎙️ **recapio.io** [[repo](https://github.com/AI-Solutions-Lab-LLC/recapio.io)]:  LLM based audio transcription and summarization  
 A tool to **record audio**, **transcribe meetings**, and generate **summaries** using **OpenAI Whisper models** and **LLMs**. It integrates **Auth0** for user authentication and **Stripe** for payment processing, all built with **Streamlit**.
 
 **AI/ML Tech used**:
