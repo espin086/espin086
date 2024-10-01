@@ -51,7 +51,7 @@ This project highlights expertise in **cloud architecture**, **automated pipelin
 
 ---
 
-### 💰 **Jobhunter** [link](https://github.com/espin086/GPT-Jobhunter):  
+### 💰 **Jobhunter** [[link](https://github.com/espin086/GPT-Jobhunter)]:  
 Jobhunter is an **AI-powered job search platform** that automates resume matching and job discovery using **GPT-based embeddings**. The app, built with **Python** and **Streamlit**, allows users to upload resumes, query an **SQLite database** of jobs, and filter results based on various criteria. 
 
 **AI/ML Tech used**:
