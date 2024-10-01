@@ -28,11 +28,12 @@ Other Tech used:
 
 ---
 
-### **AutoLearn**:  
+### 🧠 **AutoLearn**:  
+AutoLearn is an **automated machine learning pipeline** that allows users to perform **end-to-end data analysis** and model building using **PyCaret**. Built with **Python** and **Streamlit**, it offers users the ability to upload datasets, run **automated exploratory data analysis (EDA)** with **Pandas Profiling**, and train models for **classification**, **regression**, and **clustering** tasks. AutoLearn simplifies **model comparison**, **hyperparameter tuning**, and **model deployment**, making it easy to save, download, and infer from trained models. This project highlights expertise in **machine learning automation**, **data profiling**, and **AI-driven model selection**.
 
 ---
 ### 😂😭 **EmoTrack**:  
-EmoTrack is a **real-time emotion tracking application** that uses **AWS Rekognition** for facial recognition [[link to facial analysis code](https://github.com/espin086/EmoTrack/blob/main/logic/facial_analysis.py)] to detect emotions from a live webcam feed. Built with **Python** and **Streamlit** for the frontend, it stores data using **SQLite** for backend storage. The app tracks emotional variations over time and displays visualizations using **Matplotlib** and **Seaborn**. This project demonstrates expertise in **computer vision**, **cloud integration** with AWS, and **data analysis** through **emotion detection** and **real-time data tracking**.
+EmoTrack is a **real-time emotion tracking application** that uses **AWS Rekognition** for facial recognition to detect emotions from a live webcam feed. Built with **Python** and **Streamlit** for the frontend, it stores data using **SQLite** for backend storage. The app tracks emotional variations over time and displays visualizations using **Matplotlib** and **Seaborn**. This project demonstrates expertise in **computer vision**, **cloud integration** with AWS, and **data analysis** through **emotion detection** and **real-time data tracking**.
 
 AI/ML Tech used:
 
