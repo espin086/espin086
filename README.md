@@ -9,20 +9,8 @@
 
 ## Portfolio of Projects
 
-### 📝 AppGenie: https://appgenie.streamlit.app/
-
-### 💰 Jobhunter: https://github.com/espin086/GPT-Jobhunter
-
-### 📰 NewsWaveMetrics: https://github.com/espin086/NewsWaveMetrics
-
-### 🧠 AutoLearn: https://github.com/espin086/AutoLearn
-
-### 😂😭 EmoTrack: https://github.com/espin086/EmoTrack
-
-### 🧪 Experiments: https://github.com/espin086/Experiments
-
-
-
+### 💰 **Jobhunter**:  
+Jobhunter is an **AI-powered job search platform** that automates resume matching and job discovery using **GPT-based embeddings**. The app, built with **Python** and **Streamlit**, allows users to upload resumes, query an **SQLite database** of jobs, and filter results based on various criteria. Leveraging **multi-threading** and **API integrations**, it streamlines job search processes by pulling jobs from multiple sources and comparing them to a user's resume with **machine learning** techniques. The platform uses **GPT-3** to generate **text embeddings** for personalized job recommendations.
 
 
 
