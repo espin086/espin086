@@ -14,6 +14,21 @@ recapio.io is a tool designed to **record audio from meetings**, **transcribe** 
 
 This project showcases expertise in **audio processing**, **NLP**, and **web app development**, with cloud-based authentication and payment integration through **Auth0** and **Stripe**.
 
+**AI/ML Tech used**:
+- **OpenAI Whisper models** for speech-to-text transcription
+- **Large Language Models (LLMs)** for text summarization
+
+**Other Tech used**:
+- **Python 3.11.5** for core scripting and environment management
+- **Streamlit** for UI (Frontend)
+- **Auth0** for user authentication
+- **Stripe** for payment integration
+- **Conda** for environment management
+- **MP3 Audio Processing** for recording and saving audio
+- **AWS RDS** for storing user data for displaying
+- **AWS S3** for uploading files
+- **AWS EC3, AWS Load Balancer, AWS Load 53** for applicaiton hosting
+
 
 ### 🏠 **PropertyBot Data AI Pipeline**:  
 PropertyBot is an **automated data pipeline** that integrates real estate listings, **data enrichment**, and **property detail analysis** using **AWS services**. The pipeline leverages **EventBridge**, **Lambda functions**, and **SQS queues** to trigger and process property data, employing **Rekognition** for **image processing** and **custom NLP models** for property descriptions. Property data is stored and managed in **DynamoDB** and **RDS**, with additional remodel data added by a **Node.js server**. The pipeline includes automation for **removing sold listings** and supports **CI/CD deployment** via **GitHub Actions** and **Serverless** frameworks, ensuring continuous integration and deployment.
