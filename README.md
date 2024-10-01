@@ -28,6 +28,10 @@ Other Tech used:
 
 ---
 
+### 📰 **NewsWaveMetrics**:  
+NewsWaveMetrics is a **news sentiment analysis platform** designed to track national and local stories, enabling users to correlate news sentiment with **stock market data** and other **economic indicators**. The tool fetches and analyzes **daily stock data** and **news sentiment** using automated procedures and **visualization tools**. It provides insights into **stock performance**, **sentiment trends**, and various **economic metrics** such as GDP, unemployment rate, and treasury yields. Built with **Python** and incorporating **data science techniques**, NewsWaveMetrics empowers users to make **data-driven decisions** by understanding the impact of news and market conditions. The platform leverages **command-line tools** for fetching data from **Yahoo Finance** and presents results through **interactive visualizations**.
+---
+
 ### 🧠 **AutoLearn**:  
 AutoLearn is an **automated machine learning pipeline** that allows users to perform **end-to-end data analysis** and model building using **PyCaret**. Built with **Python** and **Streamlit**, it offers users the ability to upload datasets, run **automated exploratory data analysis (EDA)** with **Pandas Profiling**, and train models for **classification**, **regression**, and **clustering** tasks. AutoLearn simplifies **model comparison**, **hyperparameter tuning**, and **model deployment**, making it easy to save, download, and infer from trained models. This project highlights expertise in **machine learning automation**, **data profiling**, and **AI-driven model selection**.
 
