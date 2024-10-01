@@ -27,12 +27,12 @@ This project showcases expertise in **audio processing**, **NLP**, and **web app
 - **MP3 Audio Processing** for recording and saving audio
 - **AWS RDS** for storing user data for displaying
 - **AWS S3** for uploading files
-- **AWS EC3, AWS Load Balancer, AWS Load 53** for applicaiton hosting
+- **AWS EC2, AWS Load Balancer, AWS Route 53** for application hosting
 
 ---
 
 ### 🏠 **PropertyBot Data AI Pipeline**:  
-PropertyBot is an **automated data pipeline** that integrates real estate listings, **data enrichment**, and **property detail analysis** using **AWS services**. The pipeline leverages **EventBridge**, **Lambda functions**, and **SQS queues** to trigger and process property data, employing **Rekognition** for **image processing** and **custom NLP models** for property descriptions. Property data is stored and managed in **DynamoDB** and **RDS**, with additional remodel data added by a **Node.js server**. The pipeline includes automation for **removing sold listings** and supports **CI/CD deployment** via **GitHub Actions** and **Serverless** frameworks, ensuring continuous integration and deployment.
+PropertyBot is an **automated data pipeline** that integrates **real estate listings**, **data enrichment**, and **property detail analysis** using **AWS services**. The pipeline leverages **EventBridge**, **Lambda functions**, and **SQS queues** to trigger and process property data, employing **AWS Rekognition** for **image processing** and **custom NLP models** for property descriptions. Property data is stored and managed in **DynamoDB** and **RDS**, with additional remodel data added by a **Node.js server**. The pipeline includes automation for **removing sold listings** and supports **CI/CD deployment** via **GitHub Actions** and **Serverless frameworks**, ensuring continuous integration and deployment.
 
 This project highlights expertise in **cloud architecture**, **automated pipelines**, and **data enrichment** through cloud services like **AWS Lambda**, **SQS**, and **DynamoDB**, with efficient property data processing across multiple stages.
 
@@ -49,31 +49,27 @@ This project highlights expertise in **cloud architecture**, **automated pipelin
 - **RDS** for relational database management
 - **CI/CD pipelines** via **GitHub Actions** and **Serverless** for continuous deployment
 
-
-
 ---
 
 ### 💰 **Jobhunter** [link](https://github.com/espin086/GPT-Jobhunter):  
 Jobhunter is an **AI-powered job search platform** that automates resume matching and job discovery using **GPT-based embeddings**. The app, built with **Python** and **Streamlit**, allows users to upload resumes, query an **SQLite database** of jobs, and filter results based on various criteria. 
 
-AI/ML Tech used:
+**AI/ML Tech used**:
+- **Large Language Models (LLMs)**
+- **GPT-Embeddings**
+- **Vector Similarity Search (RAG)**
 
-- Large Language Models (LLMS)
-- GPT-Embeddings
-- Vector Similarity Search (RAG)
-
-Other Tech used:
-- SQL database
-- UI (Frontend) Streamlit
-- CI/CD Pipeline
-- Docker Containers
-- Unit Testing
-- API Integration (job searches)
+**Other Tech used**:
+- **SQLite database** for job storage
+- **Streamlit** for UI (Frontend)
+- **CI/CD Pipeline** for continuous integration
+- **Docker Containers** for deployment
+- **Unit Testing** for validation
+- **API Integration** for job searches
 
 ---
 
 ### 📰 **NewsWaveMetrics**:  
-
 **NewsWaveMetrics is a news sentiment analysis platform** designed to track national and local stories, enabling users to correlate news sentiment with **stock market data** and other **economic indicators**. The tool fetches and analyzes **daily stock data** and **news sentiment** using automated procedures and **visualization tools**. It provides insights into **stock performance**, **sentiment trends**, and various **economic metrics** such as GDP, unemployment rate, and treasury yields. Built with **Python** and incorporating **data science techniques**, NewsWaveMetrics empowers users to make **data-driven decisions** by understanding the impact of news and market conditions. The platform leverages **command-line tools** for fetching data from **Yahoo Finance** and presents results through **interactive visualizations**.
 
 **AI/ML Tech used**:
@@ -88,24 +84,6 @@ Other Tech used:
 - **API Integration** for fetching stock, news, and economic data (Yahoo Finance, RapidAPI)
 - **SQLite** for database management
 - **Command-line tools** for data retrieval and analysis
-
----
-
-### 🧠 **AutoLearn**:  
-AutoLearn is an **automated machine learning pipeline** that allows users to perform **end-to-end data analysis** and model building using **PyCaret**. Built with **Python** and **Streamlit**, it offers users the ability to upload datasets, run **automated exploratory data analysis (EDA)** with **Pandas Profiling**, and train models for **classification**, **regression**, and **clustering** tasks. AutoLearn simplifies **model comparison**, **hyperparameter tuning**, and **model deployment**, making it easy to save, download, and infer from trained models. This project highlights expertise in **machine learning automation**, **data profiling**, and **AI-driven model selection**.
-
----
-### 😂😭 **EmoTrack**:  
-EmoTrack is a **real-time emotion tracking application** that uses **AWS Rekognition** for facial recognition to detect emotions from a live webcam feed. Built with **Python** and **Streamlit** for the frontend, it stores data using **SQLite** for backend storage. The app tracks emotional variations over time and displays visualizations using **Matplotlib** and **Seaborn**. This project demonstrates expertise in **computer vision**, **cloud integration** with AWS, and **data analysis** through **emotion detection** and **real-time data tracking**.
-
-AI/ML Tech used:
-
-- AWS AI Services (Computer Vision)
-
-Other Tech used:
-- SQL database
-- UI (Frontend) Streamlit
-
 
 <h3 align="left">Languages and Tools:</h3>
 
