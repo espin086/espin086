@@ -6,7 +6,8 @@ Whether you’re aiming to build **internal AI software** or **want to partner f
 
 ## Check out my AI projects 
 
-These showcase our capabilities but are not production-grade projects. We’re committed to protecting the intellectual property rights of our clients and do not publicly post our transformative work.
+_These showcase our capabilities but are not production-grade projects. We’re committed to protecting the intellectual property rights of our clients and do not publicly post our transformative work._
+
 ---
 
 ### 💼 **IcebreakerBot** [[repo](https://github.com/espin086/IcebreakerBot)]: LinkedIn Icebreaker Generator with LangChain Agents
