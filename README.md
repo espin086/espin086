@@ -1,9 +1,12 @@
-# Hi! I'm JJ.
+# Hi! I'm JJ. Let's Make it Happen Together.
 
-[🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/jjespinoza/) to stay updated on my AI and machine learning news and projects.
+
+Whether you’re aiming to build **internal AI software** or **want to partner for a transformative B2B solution**, I, along with my team of **data engineers**, **cloud architects**, **front-end developers**, and **machine learning engineers**, bring the skills and insights to **turn your vision into reality**. We work across **AWS**, **Azure**, and **Google Cloud** to design and deploy** custom AI solutions** tailored to your business needs.
 
 
 ## Check out my AI projects 
+
+These showcase our capabilities but are not production-grade projects. We’re committed to protecting the intellectual property rights of our clients and do not publicly post our transformative work.
 ---
 
 ### 💼 **IcebreakerBot** [[repo](https://github.com/espin086/IcebreakerBot)]: LinkedIn Icebreaker Generator with LangChain Agents
