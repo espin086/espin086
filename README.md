@@ -6,7 +6,7 @@ Whether you’re aiming to build **internal AI software** or **want to partner f
 
 ## Check out my AI projects 
 
-_These showcase our capabilities but are not production-grade projects. We’re committed to protecting the intellectual property rights of our clients and do not publicly post our transformative work._
+_These showcase our capabilities but are not production-grade projects. We’re committed to protecting the intellectual property rights of our clients and do not publicly post our transformative work.
 
 ---
 
@@ -21,6 +21,23 @@ A **LinkedIn networking tool** that automatically generates personalized icebrea
 - **RapidAPI** for LinkedIn data scraping
 - **Tavily Search Results** for LinkedIn profile crawling
 - **Streamlit** for UI
+---
+
+### 💼 **Sales Forecasting API** [[repo](https://github.com/espin086/sales-forecasting-flask-api)]:  
+A **production-ready Flask REST API** that serves accurate sales predictions using a **LightGBM** forecasting model. The API is **containerized with Docker** for seamless deployment and scalability, featuring asynchronous job processing and comprehensive input validation.
+
+**AI/ML Tech used**:
+- **LightGBM** for sales forecasting
+- **Pandas** and **NumPy** for data manipulation
+- **scikit-learn** for preprocessing and feature engineering
+
+**Other Tech used**:
+- **Flask** for API development
+- **Docker** for containerization
+- **Joblib** for model serialization
+- **unittest** and **pytest** for testing
+- **Redis** (potential future integration) for job queuing
+
 ---
 
 ### 🎙️ **recapio.io** [[repo](https://github.com/AI-Solutions-Lab-LLC/recapio.io)]:  LLM based audio transcription and summarization  
