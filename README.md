@@ -23,7 +23,7 @@ A **LinkedIn networking tool** that automatically generates personalized icebrea
 - **Streamlit** for UI
 ---
 
-### 💼 **Sales Forecasting API** [[repo](https://github.com/espin086/sales-forecasting-flask-api)]:  
+### 📈 **Sales Forecasting API** [[repo](https://github.com/espin086/sales-forecasting-flask-api)]:  
 A **production-ready Flask REST API** that serves accurate sales predictions using a **LightGBM** forecasting model. The API is **containerized with Docker** for seamless deployment and scalability, featuring asynchronous job processing and comprehensive input validation.
 
 **AI/ML Tech used**:
