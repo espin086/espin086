@@ -10,6 +10,30 @@ These showcase our capabilities but are not production-grade projects. We’re c
 
 ---
 
+### 🚀 **SageMakerLlamaGuard** [[repo](https://github.com/espin086/SageMakerLlamaGuard)]: Deploy LlamaGuard 3 on AWS SageMaker with Terraform
+
+A deployment guide for **LlamaGuard 3**, an intelligent safety evaluation system that automatically checks agent responses for unsafe content. This project leverages **AWS SageMaker** for scalable model hosting and **Terraform** for managing infrastructure as code.
+
+**AI/ML Tech used**:
+- **Safety Evaluation Algorithms** for automated content safety checks
+- **LiteLLM** for constructing and evaluating prompts
+
+**Other Tech used**:
+- **AWS SageMaker** for deploying the safety evaluator
+- **Terraform** for Infrastructure as Code (IaC)
+- **AWS CLI** for configuring AWS services
+- **Python** for scripting and testing the deployment
+
+**Key Features**:
+- **Automated Safety Checks**: Evaluate agent responses in real-time.
+- **Serverless Scalability**: Leverage AWS SageMaker to handle workload scaling seamlessly.
+- **Streamlined Deployment**: Follow simple steps—from repository cloning and environment setup to Terraform initialization and testing.
+- **Easy Clean-Up**: Efficiently destroy all deployed resources with a single command.
+
+
+
+---
+
 ### 🤖 **BigQuery Chatbot** [[repo](https://github.com/espin086/BigQueryChat)]: Conversational AI for BigQuery Data Analysis
 An **intelligent conversational interface** for Google BigQuery that enables natural language interactions for data analysis. Built with **LangChain**, **Streamlit**, and integrated with **LangSmith** for comprehensive monitoring and evaluation.
 
