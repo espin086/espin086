@@ -10,7 +10,7 @@ _These showcase our capabilities but are not production-grade projects. We’re 
 
 ---
 
-### 🤖 **BigQuery Chatbot** [repo](https://github.com/espin086/BigQueryChat): Conversational AI for BigQuery Data Analysis
+### 🤖 **BigQuery Chatbot** [[repo](https://github.com/espin086/BigQueryChat)]: Conversational AI for BigQuery Data Analysis
 An **intelligent conversational interface** for Google BigQuery that enables natural language interactions for data analysis. Built with **LangChain**, **Streamlit**, and integrated with **LangSmith** for comprehensive monitoring and evaluation.
 
 **AI/ML Tech used**:
