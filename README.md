@@ -10,6 +10,26 @@ _These showcase our capabilities but are not production-grade projects. We’re 
 
 ---
 
+### 🤖 **BigQuery Chatbot** [[repo](https://github.com/AI-Solutions-Lab-LLC/hd)]: Conversational AI for BigQuery Data Analysis
+An **intelligent conversational interface** for Google BigQuery that enables natural language interactions for data analysis. Built with **LangChain**, **Streamlit**, and integrated with **LangSmith** for comprehensive monitoring and evaluation.
+
+**AI/ML Tech used**:
+- **Google Generative AI (Gemini)** for conversational intelligence
+- **LangChain** for agent orchestration
+- **LangSmith** for performance monitoring and evaluation
+
+**Other Tech used**:
+- **Google BigQuery** for data storage and querying
+- **Streamlit** for UI
+- **SQLite** for chat history
+- **Python** for backend development
+
+**Key Features**:
+- Real-time BigQuery schema inspection and query execution
+- Session-based conversation memory
+- Performance tracking and evaluation through LangSmith
+- User-friendly Streamlit interface
+
 ### 💼 **IcebreakerBot** [[repo](https://github.com/espin086/IcebreakerBot)]: LinkedIn Icebreaker Generator with LangChain Agents
 A **LinkedIn networking tool** that automatically generates personalized icebreakers using **LangChain agents** and **LLMs** like **GPT-4** and **Llama**. The system retrieves LinkedIn profiles and generates creative conversation starters. Built with **Streamlit** for the frontend.
 
