@@ -29,6 +29,7 @@ An **intelligent conversational interface** for Google BigQuery that enables nat
 - Session-based conversation memory
 - Performance tracking and evaluation through LangSmith
 - User-friendly Streamlit interface
+---
 
 ### 💼 **IcebreakerBot** [[repo](https://github.com/espin086/IcebreakerBot)]: LinkedIn Icebreaker Generator with LangChain Agents
 A **LinkedIn networking tool** that automatically generates personalized icebreakers using **LangChain agents** and **LLMs** like **GPT-4** and **Llama**. The system retrieves LinkedIn profiles and generates creative conversation starters. Built with **Streamlit** for the frontend.
