@@ -1,6 +1,6 @@
 # Hi! I'm JJ. Let's Make it Happen Together.
 
-I lead a team of experts in data, cloud, front-end, and ML engineering to build transformative AI solutions for internal software and B2B partnerships. Below are some of my most impressive projects, ordered from most to least impactful:
+I lead a team of experts in data, cloud, front-end, and ML engineering to build transformative AI solutions. Below are some of my most impressive portfolio side projects. 
 
 ---
 
