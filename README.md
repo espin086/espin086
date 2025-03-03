@@ -6,7 +6,7 @@ Whether you’re aiming to build **internal AI software** or **want to partner f
 
 ## Check out my AI projects 
 
-_These showcase our capabilities but are not production-grade projects. We’re committed to protecting the intellectual property rights of our clients and do not publicly post our transformative work.
+These showcase our capabilities but are not production-grade projects. We’re committed to protecting the intellectual property rights of our clients and do not publicly post our transformative work.
 
 ---
 
