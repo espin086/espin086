@@ -1,142 +1,63 @@
 # Hi! I'm JJ. Let's Make it Happen Together.
 
-
-Whether you’re aiming to build **internal AI software** or **want to partner for a transformative B2B solution**, I, along with my team of **data engineers**, **cloud architects**, **front-end developers**, and **machine learning engineers**, bring the skills and insights to **turn your vision into reality**. We work across **AWS**, **Azure**, and **Google Cloud** to design and deploy** custom AI solutions** tailored to your business needs.
-
-
-## Check out my AI projects 
-
-These showcase our capabilities but are not production-grade projects. We’re committed to protecting the intellectual property rights of our clients and do not publicly post our transformative work.
+I lead a team of experts in data, cloud, front-end, and ML engineering to build transformative AI solutions for internal software and B2B partnerships. Below are some of my most impressive projects, ordered from most to least impactful:
 
 ---
 
-### 🚀 **SageMakerLlamaGuard** [[repo](https://github.com/espin086/SageMakerLlamaGuard)]: Deploy LlamaGuard 3 on AWS SageMaker with Terraform
+### 🚀 **SageMakerLlamaGuard** [[repo](https://github.com/espin086/SageMakerLlamaGuard)]
+Deploy LlamaGuard 3—a cutting-edge safety evaluation system—on AWS SageMaker using Terraform. This project automates real-time content safety checks with state-of-the-art algorithms and IaC.
 
-A deployment guide for **LlamaGuard 3**, an intelligent safety evaluation system that automatically checks agent responses for unsafe content. This project leverages **AWS SageMaker** for scalable model hosting and **Terraform** for managing infrastructure as code.
-
-**AI/ML Tech used**:
-- **Safety Evaluation Algorithms** for automated content safety checks
-- **LiteLLM** for constructing and evaluating prompts
-
-**Other Tech used**:
-- **AWS SageMaker** for deploying the safety evaluator
-- **Terraform** for Infrastructure as Code (IaC)
-- **AWS CLI** for configuring AWS services
-- **Python** for scripting and testing the deployment
-
-**Key Features**:
-- **Automated Safety Checks**: Evaluate agent responses in real-time.
-- **Serverless Scalability**: Leverage AWS SageMaker to handle workload scaling seamlessly.
-- **Streamlined Deployment**: Follow simple steps—from repository cloning and environment setup to Terraform initialization and testing.
-- **Easy Clean-Up**: Efficiently destroy all deployed resources with a single command.
-
-
+**Tech**: AWS SageMaker, Terraform, AWS CLI, Python
 
 ---
 
-### 🤖 **BigQuery Chatbot** [[repo](https://github.com/espin086/BigQueryChat)]: Conversational AI for BigQuery Data Analysis
-An **intelligent conversational interface** for Google BigQuery that enables natural language interactions for data analysis. Built with **LangChain**, **Streamlit**, and integrated with **LangSmith** for comprehensive monitoring and evaluation.
+### 🤖 **BigQuery Chatbot** [[repo](https://github.com/espin086/BigQueryChat)]
+An intelligent conversational interface for BigQuery data analysis. Built with LangChain, Streamlit, and LangSmith for comprehensive monitoring.
 
-**AI/ML Tech used**:
-- **Google Generative AI (Gemini)** for conversational intelligence
-- **LangChain** for agent orchestration
-- **LangSmith** for performance monitoring and evaluation
-
-**Other Tech used**:
-- **Google BigQuery** for data storage and querying
-- **Streamlit** for UI
-- **SQLite** for chat history
-- **Python** for backend development
-
-**Key Features**:
-- Real-time BigQuery schema inspection and query execution
-- Session-based conversation memory
-- Performance tracking and evaluation through LangSmith
-- User-friendly Streamlit interface
----
-
-### 💼 **IcebreakerBot** [[repo](https://github.com/espin086/IcebreakerBot)]: LinkedIn Icebreaker Generator with LangChain Agents
-A **LinkedIn networking tool** that automatically generates personalized icebreakers using **LangChain agents** and **LLMs** like **GPT-4** and **Llama**. The system retrieves LinkedIn profiles and generates creative conversation starters. Built with **Streamlit** for the frontend.
-
-**AI/ML Tech used**:
-- **LangChain Agents** for LinkedIn profile search and information retrieval
-- **GPT-4** and **Llama** for content generation
-
-**Other Tech used**:
-- **RapidAPI** for LinkedIn data scraping
-- **Tavily Search Results** for LinkedIn profile crawling
-- **Streamlit** for UI
----
-
-### 📈 **Sales Forecasting API** [[repo](https://github.com/espin086/sales-forecasting-flask-api)]:  
-A **production-ready Flask REST API** that serves accurate sales predictions using a **LightGBM** forecasting model. The API is **containerized with Docker** for seamless deployment and scalability, featuring asynchronous job processing and comprehensive input validation.
-
-**AI/ML Tech used**:
-- **LightGBM** for sales forecasting
-- **Pandas** and **NumPy** for data manipulation
-- **scikit-learn** for preprocessing and feature engineering
-
-**Other Tech used**:
-- **Flask** for API development
-- **Docker** for containerization
-- **Joblib** for model serialization
-- **unittest** and **pytest** for testing
-- **Redis** (potential future integration) for job queuing
+**Tech**: Gemini AI, LangChain, LangSmith, Google BigQuery, Streamlit
 
 ---
 
-### 🎙️ **recapio.io** [[repo](https://github.com/AI-Solutions-Lab-LLC/recapio.io)]:  LLM based audio transcription and summarization  
-A tool to **record audio**, **transcribe meetings**, and generate **summaries** using **OpenAI Whisper models** and **LLMs**. It integrates **Auth0** for user authentication and **Stripe** for payment processing, all built with **Streamlit**.
+### 📈 **Sales Forecasting API** [[repo](https://github.com/espin086/sales-forecasting-flask-api)]
+A production-ready Flask REST API that delivers precise sales predictions using a LightGBM model, containerized with Docker for scalable deployment.
 
-**AI/ML Tech used**:
-- **OpenAI Whisper** for transcription
-- **LLMs** for summarization
-
-**Other Tech used**:
-- **Streamlit** for UI
-- **Auth0** for authentication
-- **Stripe** for payments
-- **AWS RDS, S3, EC2** for storage and hosting
+**Tech**: LightGBM, Flask, Docker, Pandas, scikit-learn
 
 ---
 
-### 🏠 **PropertyBot Data AI Pipeline** [[repo](https://github.com/propertybot/data-pipeline)]:  Computer Vision / NLP for home listing analysis.
-An **automated data pipeline** that processes **real estate listings**, enriching them with **AWS Rekognition** for **image classification** and **custom NLP models** for property descriptions. Includes a **CI/CD pipeline** for continuous deployment.
+### 🎙️ **recapio.io** [[repo](https://github.com/AI-Solutions-Lab-LLC/recapio.io)]
+LLM-based audio transcription and summarization tool. It integrates OpenAI Whisper for transcription, Auth0 for authentication, and Stripe for payments.
 
-**AI/ML Tech used**:
-- **AWS Rekognition** for image classification
-- **Custom NLP models** for property analysis
-
-**Other Tech used**:
-- **AWS Lambda, SQS, DynamoDB, RDS** for processing and storage
-- **CI/CD pipelines** via **GitHub Actions**
+**Tech**: OpenAI Whisper, LLMs, Streamlit, Auth0, Stripe, AWS
 
 ---
 
-### 💰 **Jobhunter** [[repo](https://github.com/espin086/GPT-Jobhunter)]:  LLM Embeddings based job search app.
-An **AI-powered job search platform** that uses **GPT-based embeddings** to match resumes with job listings. Built with **Python** and **Streamlit**.
+### 💼 **IcebreakerBot** [[repo](https://github.com/espin086/IcebreakerBot)]
+A LinkedIn icebreaker generator that crafts personalized conversation starters using LangChain agents and LLMs like GPT-4 and Llama, with a sleek Streamlit interface.
 
-**AI/ML Tech used**:
-- **LLMs** for job matching
-- **GPT-based embeddings** for resume-job matching
-
-**Other Tech used**:
-- **SQLite** for job storage
-- **Streamlit** for UI
-- **CI/CD Pipeline**, **Docker**, **API Integration**
+**Tech**: LangChain, GPT-4, Llama, RapidAPI, Streamlit
 
 ---
 
-### 📰 **NewsWaveMetrics** [[repo](https://github.com/espin086/NewsWaveMetrics)]:  News Sentiment Analyzer
-A platform that analyzes **news sentiment** and correlates it with **stock market data** and **economic indicators**. Uses **NLP** for sentiment analysis and **time series analysis** for economic trends.
+### 💰 **Jobhunter** [[repo](https://github.com/espin086/GPT-Jobhunter)]
+An AI-powered job search app that leverages GPT-based embeddings to match resumes with job listings, built with Python and Streamlit.
 
-**AI/ML Tech used**:
-- **NLP** for sentiment analysis
-- **Time Series Analysis** for stock trends
+**Tech**: LLMs, GPT embeddings, SQLite, Streamlit
 
-**Other Tech used**:
-- **Python**, **Pandas**, **Matplotlib**, **Seaborn** for data processing and visualization
-- **SQLite** and **API Integration** (Yahoo Finance, RapidAPI)
+---
+
+### 📰 **NewsWaveMetrics** [[repo](https://github.com/espin086/NewsWaveMetrics)]
+A news sentiment analyzer that correlates sentiment data with stock market trends using NLP and time-series analysis, featuring rich visualizations.
+
+**Tech**: NLP, Time Series Analysis, Python, Pandas
+
+---
+
+### 🏠 **PropertyBot Data AI Pipeline** [[repo](https://github.com/propertybot/data-pipeline)]
+An automated pipeline that processes real estate listings with AWS Rekognition and custom NLP models, enhanced by a CI/CD pipeline for continuous deployment.
+
+**Tech**: AWS Rekognition, Custom NLP, AWS Lambda, GitHub Actions
+
 
 
 <h3 align="left">Languages and Tools:</h3>
