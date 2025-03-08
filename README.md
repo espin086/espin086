@@ -4,6 +4,12 @@ I lead a team of experts in data, cloud, front-end, and ML engineering to build 
 
 ---
 
+### 🧠 **DeepSeek Ollama FastAPI** [[repo](https://github.com/espin086/deepseek-ollama-fastapi)]
+A Docker-based solution that bundles **Deep Seek** LLM with **Ollama**, exposing fully-featured text generation (sync & streaming) through a FastAPI endpoint.
+
+**Tech**: Docker, Ollama, FastAPI, Python, Uvicorn
+---
+
 ### 🚀 **SageMakerLlamaGuard** [[repo](https://github.com/espin086/SageMakerLlamaGuard)]
 Deploy LlamaGuard 3—a cutting-edge safety evaluation system—on AWS SageMaker using Terraform. This project automates real-time content safety checks with state-of-the-art algorithms and IaC.
 
