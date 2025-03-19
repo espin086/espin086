@@ -8,6 +8,7 @@ I lead a team of experts in data, cloud, front-end, and ML engineering to build 
 A Docker-based solution that bundles **Deep Seek** LLM with **Ollama**, exposing fully-featured text generation (sync & streaming) through a FastAPI endpoint.
 
 **Tech**: Docker, Ollama, FastAPI, Python, Uvicorn
+
 ---
 
 ### 🚀 **SageMakerLlamaGuard** [[repo](https://github.com/espin086/SageMakerLlamaGuard)]
