@@ -7,6 +7,7 @@ I lead a team of experts in data, cloud, front-end, and ML engineering to build 
 A generative AI command-line tool that automates project planning. It creates structured plans based on your input, breaking down goals, estimating effort, and generating tasks for various project types including data science, engineering, and experimental initiatives.
 
 **Tech**: Python, GPT, CLI, argparse
+
 ---
 
 ### 📝 **Briefly** [[repo](https://github.com/espin086/Briefly)]  
