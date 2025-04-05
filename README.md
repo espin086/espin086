@@ -2,6 +2,11 @@
 
 I lead a team of experts in data, cloud, front-end, and ML engineering to build transformative AI solutions. Below are some of my most impressive portfolio side projects. 
 
+
+### 📝 **Briefly** [[repo](https://github.com/espin086/Briefly)]  
+An AI-powered writing assistant for professionals that transforms rough notes into polished, structured content. It features modules for generating Jira tickets, weekly reports, stand-ups, emails, and Slack responses—each leveraging GPT models within a streamlined Streamlit interface.
+
+**Tech**: GPT, Streamlit, Python, Make, OpenAI API
 ---
 
 ### 🧠 **DeepSeek Ollama FastAPI** [[repo](https://github.com/espin086/deepseek-ollama-fastapi)]
