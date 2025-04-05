@@ -2,12 +2,12 @@
 
 I lead a team of experts in data, cloud, front-end, and ML engineering to build transformative AI solutions. Below are some of my most impressive portfolio side projects. 
 
-
+---
 ### 🛠️ **ProjectGenius** [[repo](https://github.com/espin086/ProjectGenius)]  
 A generative AI command-line tool that automates project planning. It creates structured plans based on your input, breaking down goals, estimating effort, and generating tasks for various project types including data science, engineering, and experimental initiatives.
 
 **Tech**: Python, GPT, CLI, argparse
-
+---
 
 ### 📝 **Briefly** [[repo](https://github.com/espin086/Briefly)]  
 An AI-powered writing assistant for professionals that transforms rough notes into polished, structured content. It features modules for generating Jira tickets, weekly reports, stand-ups, emails, and Slack responses—each leveraging GPT models within a streamlined Streamlit interface.
