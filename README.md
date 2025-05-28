@@ -10,6 +10,16 @@ _The projects showcased here are personal endeavors and represent my journey in 
 
 ---
 
+### 🏋️‍♀️🥗 **Fitness Diet Advisor AI** [[repo](https://github.com/espin086/fitness-diet-advisor-ai)]
+
+An **intelligent chatbot** designed to provide users with accurate information and actionable advice on their **fitness and dietary queries**. This project leverages **specialized tools** and a conversational **Streamlit UI** to make health and fitness knowledge more accessible and interactive.
+
+**Key Technologies Explored**:
+- AI/ML: **Google ADK**, **LLM Agent (e.g., Gemini model)** for conversational AI and tool orchestration.
+- Other Tech: **Streamlit** (for UI), **Poetry** (for package management), **Pytest** (for testing).
+
+---
+
 ### 💼 **IcebreakerBot** [[repo](https://github.com/espin086/IcebreakerBot)]
 
 A **LinkedIn networking tool** that automatically generates personalized icebreakers. This project uses **LangChain agents** and **LLMs** like **GPT-4** and **Llama** to retrieve LinkedIn profiles and craft creative conversation starters. The interface is built with **Streamlit**.
