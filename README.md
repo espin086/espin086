@@ -10,7 +10,7 @@ _The projects showcased here are personal endeavors and represent my journey in 
 
 ---
 
-### 🏋️‍♀️🥗 **Fitness Diet Advisor AI** [[repo](https://github.com/espin086/fitness-diet-advisor-ai)]
+### 🏋️‍♀️🥗 **Fitness Diet Advisor AI** [[repo](https://github.com/espin086/api-diet-optimizer)]
 
 An **intelligent chatbot** designed to provide users with accurate information and actionable advice on their **fitness and dietary queries**. This project leverages **specialized tools** and a conversational **Streamlit UI** to make health and fitness knowledge more accessible and interactive.
 
