@@ -1,72 +1,88 @@
-# Hi, I'm JJ! 👋 Exploring the Frontiers of AI & Technology
+# Hi, I'm JJ! 👋 Production AI/ML, End to End
 
-Welcome to my personal GitHub space! This is where I dive into my passion for Artificial Intelligence, Machine Learning, and cutting-edge technology. You'll find a collection of my personal projects, experiments, and explorations across various domains.
+I build and ship machine learning systems: **LLM applications**, **decisioning microservices**, and **data pipelines** that run with tests, CI, and containers, not just notebooks. 14+ years in ML across media, tech, and cloud consulting; these are the personal projects where I prove out ideas in code.
 
-I enjoy working with different cloud platforms like **AWS**, **Azure**, and **Google Cloud** to bring these ideas to life and continuously expand my skill set in designing and deploying innovative applications.
+I work across **AWS** and **Google Cloud**, with **Python**, **FastAPI**, **Docker**, and **Kubernetes** as the default stack.
 
-## My AI & Tech Explorations
+## Featured Projects
 
-_The projects showcased here are personal endeavors and represent my journey in learning and building with AI. They are intended as demonstrations of concepts and explorations of technology._
-
----
-
-### 🏋️‍♀️🥗 **Fitness Diet Advisor AI** [[repo](https://github.com/espin086/api-diet-optimizer)]
-
-An **intelligent chatbot** designed to provide users with accurate information and actionable advice on their **fitness and dietary queries**. This project leverages **specialized tools** and a conversational **Streamlit UI** to make health and fitness knowledge more accessible and interactive.
-
-**Key Technologies Explored**:
-- AI/ML: **Google ADK**, **LLM Agent (e.g., Gemini model)** for conversational AI and tool orchestration.
-- Other Tech: **Streamlit** (for UI), **Poetry** (for package management), **Pytest** (for testing).
+_Every project below is public code you can run. The ones at the top carry full test suites, CI, and containerized deploys._
 
 ---
 
-### 💼 **IcebreakerBot** [[repo](https://github.com/espin086/IcebreakerBot)]
+### 💼 **GPT-Jobhunter** [[repo](https://github.com/espin086/GPT-Jobhunter)] ⭐ 93 stars
 
-A **LinkedIn networking tool** that automatically generates personalized icebreakers. This project uses **LangChain agents** and **LLMs** like **GPT-4** and **Llama** to retrieve LinkedIn profiles and craft creative conversation starters. The interface is built with **Streamlit**.
+An **AI job-search platform** used by real job seekers: **embedding-based similarity scoring** matches resumes to live job postings 0-100%, and an **LLM pipeline rewrites the resume** for the jobs worth chasing. This is a complete ML product, from feature generation to serving.
 
-**Key Technologies Explored**:
-- AI/ML: **LangChain Agents**, **GPT-4**, **Llama** for generation and information retrieval.
-- Other Tech: **RapidAPI** (for LinkedIn data), **Tavily Search Results** (for profile crawling), **Streamlit** (for UI).
+**Why it matters**: the same shape as production personalization and ranking systems: embed user and item text, score, rank, act on the ranking.
 
----
-
-### 🎙️ **recapio.io** [[repo](https://github.com/AI-Solutions-Lab-LLC/recapio.io)]
-
-A tool designed to **record audio**, **transcribe meetings**, and generate **summaries**. This project explores **OpenAI Whisper models** for transcription and various **LLMs** for summarization. It also integrates **Auth0** for user authentication and **Stripe** for payment processing, with a UI built using **Streamlit**.
-
-**Key Technologies Explored**:
-- AI/ML: **OpenAI Whisper**, various **LLMs** for summarization.
-- Other Tech: **Streamlit**, **Auth0**, **Stripe**, **AWS RDS, S3, EC2** for backend infrastructure.
+**Key Technologies**:
+- AI/ML: **LLM embeddings**, **similarity scoring**, **LLM resume tailoring**, ATS scoring.
+- Engineering: **FastAPI**, **Streamlit**, **Docker + docker-compose**, **GitHub Actions CI**, **full pytest suite**, **OpenAPI spec**.
 
 ---
 
-### 🏠 **PropertyBot Data AI Pipeline** [[repo](https://github.com/propertybot/data-pipeline)]
+### 🎛️ **Configurable LLM Classifier** [[repo](https://github.com/espin086/configurable-llm-classifier)]
 
-An **automated data pipeline** that processes **real estate listings**. This project experiments with **AWS Rekognition** for **image classification** and **custom NLP models** for analyzing property descriptions. It also features a **CI/CD pipeline** for continuous deployment.
+A **config-driven LLM decisioning microservice**: business users change **YAML**, not code, and the service returns **label, confidence, and reasoning** for any text classification task. Built the way regulated decisioning systems get built: deterministic config, an **eval harness with a golden set and an accuracy gate in CI**, and **Kubernetes manifests** for deployment.
 
-**Key Technologies Explored**:
-- AI/ML: **AWS Rekognition**, **Custom NLP models**.
-- Other Tech: **AWS Lambda, SQS, DynamoDB, RDS**, **GitHub Actions** (for CI/CD).
+**Why it matters**: auditable, testable LLM decisions, the pattern behind fraud flags, credit-risk triage, and complaint routing.
 
----
-
-### 💰 **Jobhunter** [[repo](https://github.com/espin086/GPT-Jobhunter)]
-
-An **AI-powered job search platform** that utilizes **GPT-based embeddings** to match resumes with job listings. This project is built with **Python** and **Streamlit**.
-
-**Key Technologies Explored**:
-- AI/ML: **LLMs** for job matching, **GPT-based embeddings**.
-- Other Tech: **SQLite**, **Streamlit**, **CI/CD Pipeline**, **Docker**, **API Integration**.
+**Key Technologies**:
+- AI/ML: **LLM classification**, **eval harness** (golden set, accuracy gate), confidence + reasoning outputs.
+- Engineering: **FastAPI**, **pytest**, **GitHub Actions CI**, **Docker**, **Kubernetes** (ConfigMap/Secret/Deployment/Service).
 
 ---
 
 ### 📰 **NewsWaveMetrics** [[repo](https://github.com/espin086/NewsWaveMetrics)]
 
-A platform for analyzing **news sentiment** and correlating it with **stock market data** and **economic indicators**. This project delves into **NLP** for sentiment analysis and **time series analysis** for economic trends.
+A platform that scores **news sentiment** and correlates it against **stock market prices** and economic indicators, so a story's tone becomes a measurable market signal. **NLP sentiment models** on national and local news, joined to **time series** of real financial data.
 
-**Key Technologies Explored**:
-- AI/ML: **NLP** for sentiment analysis, **Time Series Analysis**.
-- Other Tech: **Python**, **Pandas**, **Matplotlib**, **Seaborn**, **SQLite**, **API Integration** (Yahoo Finance, RapidAPI).
+**Why it matters**: unstructured text turned into quantitative signal against financial market data.
+
+**Key Technologies**:
+- AI/ML: **NLP sentiment analysis**, **time series analysis**.
+- Engineering: **Python**, **Pandas**, **SQLite**, API integration (**Yahoo Finance**, RapidAPI).
+
+---
+
+### 📈 **Stocks: Portfolio Optimizer** [[repo](https://github.com/espin086/Stocks)]
+
+A stock analysis tool that runs **portfolio optimization** over historical price data and recommends **budget allocation across holdings**. Applied quantitative finance: expected returns, risk, and allocation under constraints (I hold an M.S. in Econometrics, and it shows here).
+
+**Key Technologies**:
+- Quant: **portfolio optimization**, historical return/risk modeling.
+- Engineering: **Python**, financial data APIs.
+
+---
+
+### 🎭 **EmoTrack** [[repo](https://github.com/espin086/EmoTrack)]
+
+**Real-time facial-emotion analytics** from webcam input, with trend dashboards for daily and weekly patterns. Ships in three modes (standalone, full-stack, Docker) with a **tested, CI-gated** codebase.
+
+**Key Technologies**:
+- AI/ML: **AWS Rekognition** for emotion detection.
+- Engineering: **FastAPI**, **Streamlit**, **SQLite**, **pytest + GitHub Actions CI**, per-service **Dockerfiles + compose**.
+
+---
+
+### 🏠 **PropertyBot Data AI Pipeline** [[repo](https://github.com/propertybot/data-pipeline)]
+
+An **automated real-estate data pipeline**: **AWS Rekognition** classifies listing photos and **custom NLP models** score property descriptions, on serverless AWS infrastructure with CI/CD. Related work led to **US patent #62/774,446** (AI-driven, image-oriented real estate analysis).
+
+**Key Technologies**:
+- AI/ML: **AWS Rekognition**, **custom NLP models**.
+- Engineering: **AWS Lambda, SQS, DynamoDB, RDS**, **GitHub Actions CI/CD**.
+
+---
+
+### 🎙️ **recapio.io** [[repo](https://github.com/AI-Solutions-Lab-LLC/recapio.io)]
+
+A meeting **transcription and summarization product** with real users, payments, and auth: **OpenAI Whisper** for transcription, **LLMs** for summaries, **Stripe** for billing, **Auth0** for identity, on AWS.
+
+**Key Technologies**:
+- AI/ML: **OpenAI Whisper**, **LLM summarization**.
+- Engineering: **Streamlit**, **Auth0**, **Stripe**, **AWS RDS, S3, EC2**.
 
 ---
 
