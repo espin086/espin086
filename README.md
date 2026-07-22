@@ -1,58 +1,55 @@
 # JJ Espinoza. AI/ML Engineering Projects
 
-10+ years building distributed ML systems, LLM platforms, and production AI infrastructure across AWS, GCP, and Azure. The projects below are personal builds, ranked by engineering depth. architecture, scale, and design tradeoffs, not just "uses an LLM."
+10+ years building distributed ML systems, LLM platforms, and production AI infrastructure across AWS, GCP, and Azure. Ranked by engineering depth, most to least.
 
 ## Ranked projects
 
-### 1. [configurable-llm-classifier](https://github.com/espin086/configurable-llm-classifier)
-A containerized text classification system where the classification logic. labels, prompts, thresholds. is driven entirely by a YAML config file, not hardcoded. Swap a config, redeploy nothing, and the same service classifies a different taxonomy. This is the platform pattern behind a rules engine: separate the decision logic from the deployment unit so product and ops can iterate without an engineering release cycle.
-**Relevant to:** LLM optimization, configurable rules engines, platform design for non-engineering iteration.
+### 1⃣ [configurable-llm-classifier](https://github.com/espin086/configurable-llm-classifier)
+- **What it is:** A containerized LLM classification service where the label taxonomy lives in a YAML config, not code. swap the config and the same service classifies a different taxonomy with no redeploy.
+- **Stack:** FastAPI, Docker, Kubernetes (ConfigMap/Secret), OpenAI API, pytest, GitHub Actions CI, a golden-set eval harness.
+- **Relevant to:** LLM optimization, configurable rules engines, platform design for non-engineering iteration.
 
-### 2. [SageMakerLlamaGuard](https://github.com/espin086/SageMakerLlamaGuard)
-Deploys a LlamaGuard-class safety/guardrail model on AWS SageMaker to screen LLM inputs and outputs for policy violations before they reach a production path. The engineering problem here isn't the model, it's the infrastructure: real-time inference latency budget, endpoint autoscaling, and where in the request path a safety check can sit without doubling response time.
-**Relevant to:** Responsible AI governance, bias/risk mitigation infrastructure, AWS ML platform deployment.
+### 2⃣ [SageMakerLlamaGuard](https://github.com/espin086/SageMakerLlamaGuard)
+- **What it is:** Deploys Meta's LlamaGuard 3 safety-classification model as a managed AWS SageMaker endpoint to screen LLM inputs/outputs for policy violations before they reach production.
+- **Stack:** AWS SageMaker, Terraform (IaC), IAM, Python.
+- **Relevant to:** Responsible AI governance, bias/risk mitigation infrastructure, AWS ML platform deployment.
 
-### 3. [GPT-Jobhunter](https://github.com/espin086/GPT-Jobhunter)
-An embeddings-based resume/job matching engine. computes semantic similarity between a resume and thousands of job postings, scores each 0-100%, and generates a tailored resume rewrite per target job. Backed by SQLite, containerized, with a CI/CD pipeline that runs the test suite on every push. The interesting engineering choice: matching runs on embeddings rather than keyword search, which is what makes the 0-100% score meaningful instead of a fuzzy string match.
-**Relevant to:** Full ML product lifecycle (data to embeddings to serving to CI/CD), retrieval architecture.
+### 3⃣ [GPT-Jobhunter](https://github.com/espin086/GPT-Jobhunter)
+- **What it is:** An embeddings-based resume/job matching engine. scores a resume against thousands of postings 0-100% and generates a tailored resume rewrite per target job.
+- **Stack:** Python, GPT embeddings, SQLite, Streamlit, Docker, CI/CD pipeline.
+- **Relevant to:** Full ML product lifecycle (data → embeddings → serving → CI/CD), retrieval architecture.
 
-### 4. [adk-and-mcp](https://github.com/espin086/adk-and-mcp)
-An agent built on Google's Agent Development Kit that reaches external tools through MCP (Model Context Protocol) instead of hand-rolled function-calling glue. The architectural bet: standardize tool integration on a protocol so new tools plug in without touching the agent's core logic. the same problem a platform team solves when it needs one agent runtime to serve many product teams' tools.
-**Relevant to:** AI platform / agent-tooling architecture, standards-based integration over point-to-point glue.
+### 4⃣ [adk-and-mcp](https://github.com/espin086/adk-and-mcp)
+- **What it is:** A set of agents on Google's Agent Development Kit that reach external tools through MCP (Model Context Protocol) instead of hand-rolled function-calling glue, plus stateful multi-agent delegation.
+- **Stack:** Google ADK, MCP, Gemini/GPT-4.1/Claude via LiteLLM, Poetry.
+- **Relevant to:** AI platform / agent-tooling architecture, standards-based integration over point-to-point glue.
 
-### 5. [deepseek-ollama-fastapi](https://github.com/espin086/deepseek-ollama-fastapi)
-A Dockerized FastAPI/Uvicorn service wrapping Ollama for LLM inference, with both synchronous and token-streaming endpoints. Streaming matters here for a concrete reason: a chat UI waiting on a full generation before showing anything reads as broken, so the service has to keep a connection open and flush tokens as the model produces them, not buffer the whole response.
-**Relevant to:** Inference-serving architecture, latency-sensitive API design, containerized MLOps deployment.
+### 5⃣ [deepseek-ollama-fastapi](https://github.com/espin086/deepseek-ollama-fastapi)
+- **What it is:** A Dockerized FastAPI/Uvicorn service wrapping Ollama for LLM inference, with both synchronous and token-streaming endpoints.
+- **Stack:** FastAPI, Uvicorn, Ollama, Docker.
+- **Relevant to:** Inference-serving architecture, latency-sensitive API design, containerized MLOps deployment.
 
-### 6. [AIProtoCritic](https://github.com/espin086/AIProtoCritic)
-Analyzes Protobuf schema files against Google's own Protobuf style guide and flags violations with an LLM-generated rationale, not just a lint rule match. Useful case study in using an LLM as a reviewer against a written spec instead of a fixed rule set. catches the "technically valid but bad practice" violations a regex-based linter misses.
-**Relevant to:** LLM-as-reviewer patterns, applying models to structured/technical artifacts instead of free text.
+### 6⃣ [AIProtoCritic](https://github.com/espin086/AIProtoCritic)
+- **What it is:** Analyzes Protobuf schema files against Google's own Protobuf style guide and flags violations with an LLM-generated rationale, not just a lint-rule match.
+- **Stack:** Python, open-source LLMs, Google Protobuf style guide as a grounding source.
+- **Relevant to:** LLM-as-reviewer patterns, applying models to structured/technical artifacts instead of free text.
 
-### 7. [api-diet-optimizer](https://github.com/espin086/api-diet-optimizer)
-A linear-programming API that solves for the lowest-cost nutrition plan meeting a set of constraints (calories, macros, budget). Not an LLM project. it's a constrained-optimization service, and it's here because distinguished-engineer-level work includes knowing when the right tool is a solver, not a model.
-**Relevant to:** Optimization under constraints, API design for a computationally distinct problem class.
+### 7⃣ [api-diet-optimizer](https://github.com/espin086/api-diet-optimizer)
+- **What it is:** A linear-programming API that solves for the lowest-cost nutrition plan meeting a set of constraints (calories, macros, budget).
+- **Stack:** Python, linear programming solver, REST API.
+- **Relevant to:** Optimization under constraints, knowing when the right tool is a solver, not a model.
 
-### 8. [BigQueryChat](https://github.com/espin086/BigQueryChat)
-A chatbot that translates natural-language questions into BigQuery SQL and returns results conversationally. The hard part is the schema-grounding step: the model has to know the actual table structure before it can write a query that runs, not just a query that looks plausible.
-**Relevant to:** LLM-to-structured-query translation, schema-grounded generation.
+### 8⃣ [BigQueryChat](https://github.com/espin086/BigQueryChat)
+- **What it is:** A chatbot that translates natural-language questions into BigQuery SQL and returns results conversationally.
+- **Stack:** Python, Google BigQuery, LLM query generation.
+- **Relevant to:** LLM-to-structured-query translation, schema-grounded generation.
 
-### 9. [MyKaggleCompetitions](https://github.com/espin086/MyKaggleCompetitions)
-A monorepo of Kaggle competition solutions. feature engineering, model selection, and evaluation across tabular and NLP problems. Ranked lower here because competition notebooks are a different discipline than production systems, but they're the clearest evidence of raw modeling technique.
-**Relevant to:** Model selection and evaluation methodology, feature engineering depth.
+### 9⃣ [MyKaggleCompetitions](https://github.com/espin086/MyKaggleCompetitions)
+- **What it is:** A monorepo of Kaggle competition solutions across tabular and NLP problems.
+- **Stack:** Python, pandas, scikit-learn, Jupyter.
+- **Relevant to:** Model selection and evaluation methodology, feature engineering depth.
 
 ---
-
-## Not on this list
-
-Older tutorial-following repos (`LangChainCrashCourse`, `lang-graph-course`, `agent-development-kit-masterclass`, `KubernetesCrashCourse`), forks of other people's tools (`Jobs_Applier_AI_Agent_AIHawk`, `FoloUp`), and non-AI utility repos are excluded. this list is scoped to original AI/ML engineering work.
-
-## Repos that need a visibility change
-
-Three of the projects above are currently **private** and need to be switched to public before the links resolve for anyone but me:
-
-- `configurable-llm-classifier`
-- `SageMakerLlamaGuard`
-- `sagemaker-jumpstart-deployer` (SageMaker JumpStart deployment tooling. held back from the ranked list pending a README pass, but worth making public regardless)
 
 ## Stack
 
