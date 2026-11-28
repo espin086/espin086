@@ -16,15 +16,15 @@ An AI job-search app. It scores every job posting from 0 to 100% against a resum
 - **Skills shown:** end-to-end ML product, embeddings and semantic search, API and UI built as separate services
 - **Tech:** Python, OpenAI embeddings, FastAPI, Streamlit, SQLite, Docker, GitHub Actions
 
+### [econometrics](https://github.com/espin086/econometrics) [![CI](https://github.com/espin086/econometrics/actions/workflows/ci.yml/badge.svg)](https://github.com/espin086/econometrics/actions/workflows/ci.yml)
+An open-source econometrics tool for graduate research at Cal State Fullerton. It pulls FRED and IMF data and estimates structural VAR models of how foreign shocks move a small economy, with published reports on Nicaragua and Brazil.
+- **Skills shown:** time-series econometrics, a tested Python package with an automated release pipeline, AI coding agents working under review gates
+- **Tech:** Python CLI, FRED and IMF data, Docker, GitHub Actions (tests, CodeQL, release pipeline)
+
 ### [configurable-llm-classifier](https://github.com/espin086/configurable-llm-classifier) [![CI](https://github.com/espin086/configurable-llm-classifier/actions/workflows/ci.yml/badge.svg)](https://github.com/espin086/configurable-llm-classifier/actions/workflows/ci.yml)
 An LLM guardrail service. A business team changes what gets flagged by editing a config file, with no engineer and no redeploy.
 - **Skills shown:** platform design, automated model evaluation in CI, Kubernetes deployment
 - **Tech:** Python, FastAPI, OpenAI API, Docker, Kubernetes, pytest, GitHub Actions
-
-### [csuf-fullerton](https://github.com/espin086/csuf-fullerton) [![CI](https://github.com/espin086/csuf-fullerton/actions/workflows/ci.yml/badge.svg)](https://github.com/espin086/csuf-fullerton/actions/workflows/ci.yml)
-An open-source econometrics tool for graduate research at Cal State Fullerton. It pulls FRED and IMF data and estimates structural VAR models of how foreign shocks move a small economy, with published reports on Nicaragua and Brazil.
-- **Skills shown:** time-series econometrics, a tested and released Python package, AI coding agents working under review gates
-- **Tech:** Python CLI, FRED and IMF data, Docker, GitHub Actions (tests, CodeQL, release pipeline)
 
 ### [SageMakerLlamaGuard](https://github.com/espin086/SageMakerLlamaGuard)
 An AI safety layer on AWS. It deploys Meta's LlamaGuard 3 as an autoscaling endpoint that screens prompts and responses for policy violations.
